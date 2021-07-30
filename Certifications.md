@@ -10,7 +10,7 @@ A certification can take the form of a signed letter stating that a student has 
 
 ### How to certify students (level 2)
 
-A level 2 certification is stronger as it calls upon the prestige of existing, trusted institutions such as a universities.  In a level 2 certification, a professor co-signs the certification.  Thus an invalid certification will damage the reputation of the professor, who has a lot more to lose in that regard.  Additionally, it will damage the reputation of the institution(s) that the professor is affiliated with, and even perhaps the institution that granted the professor their degree.
+A level 2 certification is stronger as it calls upon the prestige of trusted, existing institutions, namely universities.  In a level 2 certification, a professor co-signs the certification.  Thus an invalid certification will damage the reputation of the professor, who has a lot more to lose in that regard.  Additionally, it will damage the reputation of the institution(s) that the professor is affiliated with, and even perhaps the institution that granted the professor their degree.
 
 **Precondition:** A professor who trusts your judgment and integrity in certifying students enough to co-sign your certifications.
 
