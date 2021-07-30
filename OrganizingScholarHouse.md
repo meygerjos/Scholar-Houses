@@ -7,5 +7,5 @@
 **Guidelines for splitting the rent**
 
 1. People with bigger rooms pay more. People who share rooms pay less. People who camp pay even less.
-2. People who put down money for the AirBnb reservation pay less, because they are taking on the risk that they won’t find enough people.
+2. The group that put down money for the original AirBnb reservation pay less, because they are taking on the risk that they won’t find enough people or that people will flake.  However, this guideline does not apply if the cancellation policy is such that this group is taking on minimal risk.
 3. People who have less funds available pay less.
