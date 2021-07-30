@@ -9,4 +9,8 @@ An open-source protocol for creating environments for study
 
 **Here’s the idea**: a bunch of people split an AirBnb for a month and use it as a study space.  That’s it.
 
+[FAQ](/FAQ.md)
+[How to organize a scholar house](/OrganizingScholarHouse.md)
+[Certifications](/Certifications.md)
+
 See https://airbnbscholars.substack.com/p/scholar-houses for more info.
