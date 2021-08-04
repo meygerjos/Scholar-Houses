@@ -7,7 +7,7 @@ An open-source protocol for creating environments for study
 
 *At this critical time in history, what we need is not more unconsidered action but to stop and think things through.  The challenges of the 21st Century are too great for uneducated minds.*
 
-**Here’s the idea**: a bunch of people split an AirBnb for a month and use it as a study space.  That’s it.
+**Here’s the idea**: a bunch of people split an AirBnb for a month and use it as a study space.
 
 [FAQ](/FAQ.md)
 
